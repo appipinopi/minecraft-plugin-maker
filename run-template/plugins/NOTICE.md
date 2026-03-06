@@ -20,3 +20,19 @@
 - **ライセンス:** MIT License
 - **ライセンスリンク:** [https://github.com/TheBlackEntity/PlugMan/blob/master/LICENSE](https://github.com/TheBlackEntity/PlugMan/blob/master/LICENSE)
 - **ソース:** [https://github.com/TheBlackEntity/PlugMan](https://github.com/TheBlackEntity/PlugMan)
+
+## ViaVersion
+
+- **ダウンロードリンク:** [https://github.com/ViaVersion/ViaVersion/releases](https://github.com/ViaVersion/ViaVersion/releases)
+- **作者:** ViaVersion Team
+- **ライセンス:** MIT License
+- **ライセンスリンク:** [https://github.com/ViaVersion/ViaVersion/blob/master/LICENSE](https://github.com/ViaVersion/ViaVersion/blob/master/LICENSE)
+- **ソース:** [https://github.com/ViaVersion/ViaVersion](https://github.com/ViaVersion/ViaVersion)
+
+## ViaBackwards
+
+- **ダウンロードリンク:** [https://github.com/ViaVersion/ViaBackwards/releases](https://github.com/ViaVersion/ViaBackwards/releases)
+- **作者:** ViaVersion Team
+- **ライセンス:** MIT License
+- **ライセンスリンク:** [https://github.com/ViaVersion/ViaBackwards/blob/master/LICENSE](https://github.com/ViaVersion/ViaBackwards/blob/master/LICENSE)
+- **ソース:** [https://github.com/ViaVersion/ViaBackwards](https://github.com/ViaVersion/ViaBackwards)
